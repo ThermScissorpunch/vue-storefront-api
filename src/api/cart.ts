@@ -117,7 +117,7 @@ export default ({ config, db }) => {
   })
 
   /**
-   * GET pull the whole cart as it's currently se server side
+   * GET pull the whole cart as it's currently is server side
    *   req.query.token | req.headers.authorization - user token
    *   req.query.cartId - cartId
    */
